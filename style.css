@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    background-color: gray;
+    height: 100px;
+
+}
+.btn{
+    padding: 10px 20px;
+    margin: 15px;
+    border: none;
+    color:whitesmoke;
+    background-color: blueviolet;
+}
+.postContainer{
+    /* display: flex; */
+    margin-top:  20px;
+    width: 70%;
+ 
+}
+.post{
+    padding: 15px;
+    background-color: lightblue;
+    color: black;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    
+}
